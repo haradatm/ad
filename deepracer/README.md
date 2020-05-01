@@ -29,8 +29,6 @@ git reset --hard FETCH_HEAD
 
 - ~~Duplicate some files to copy and place them there.~~
 
-Note: This instruction is not necessary, because it will be placed automatically when you git-clone. If you want to start from scratch, please follow the instructions.
-
 ```
 cd ..
 mkdir -p logs utils
@@ -38,7 +36,7 @@ cp -fr aws-deepracer-workshops/log-analysis/tracks .
 cp aws-deepracer-workshops/log-analysis/log_analysis.py utils/.
 cp aws-deepracer-workshops/log-analysis/cw_utils.py     utils/.
 ```
-
+Note: The above instruction is not necessary, because it will be placed automatically when you git-clone. If you want to start from scratch, please follow the instructions.
 
 ### Run visualization and analysis ###
 
