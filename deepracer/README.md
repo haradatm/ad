@@ -85,6 +85,4 @@ Average throttle, velocity = 0.97 (Gazebo), 0.90 (meters/sec)
 ###############################################################
 ```
 
-[Plot](outputs/sim-dl533hr387wm.png)
-
 <img src="outputs/sim-dl533hr387wm.png" alt="sim-dl533hr387wm"/>
