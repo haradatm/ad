@@ -28,8 +28,8 @@ import boto3
 import dateutil.parser
 import json
 
-from log_analysis.cw_utils import *
-from log_analysis.log_analysis import *
+from utils.cw_utils import *
+from utils.log_analysis import *
 
 
 if __name__ == '__main__':
