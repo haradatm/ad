@@ -1,3 +1,5 @@
+***This page is deprecated***. Please see ***new Jupyter notebook [here](./log_analysis.ipynb)***.
+
 # Simulation Run Log Analysis and Visualization for AWS DeepRacer
 
 ### Description
